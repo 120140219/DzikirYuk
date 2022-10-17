@@ -1,4 +1,4 @@
-# DzikirYuk
+# UTS-PAM
 
 ## Nama Aplikasi
 DzikirYuk
